@@ -10,3 +10,9 @@ $spacing-unit:     30px !default;
 }
 
 @import "syntax-highlighting";
+.card img {
+    height: 284px;
+}
+.card .card-content {
+    min-height: 200px;
+}
