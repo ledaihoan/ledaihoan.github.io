@@ -9,7 +9,7 @@
 
 
       {% for skill in site.skills %}
-          <i class="devicon-{{skill.name}}-plain-wordmark {{site.colored}}" style="font-size:{{site.icon_size}}px;"></i>
+          <i title="{{skill.name}}" class="devicon-{{skill.name}}-plain{{skill.ext}} {{site.colored}}" style="font-size:{{site.icon_size}}px;"></i>
       {% endfor %}
       </div>
     </div>

@@ -39,22 +39,36 @@ syntax_highlighting: true
 
 skills:
   - name: android
+    ext: -wordmark
   - name: java
+    ext: -wordmark
   - name: javascript
+    ext: -wordmark
   - name: html5
+    ext: -wordmark
   - name: nodejs
+    ext: -wordmark
   - name: typescript
-  - name: angular
+  - name: angularjs
   - name: bootstrap
+    ext: -wordmark
   - name: linux
   - name: mongodb
+    ext: -wordmark
   - name: mysql
+    ext: -wordmark
   - name: ssh
+    ext: -wordmark
   - name: ubuntu
+    ext: -wordmark
   - name: docker
+    ext: -wordmark
   - name: facebook
+    ext: -wordmark
   - name: firefox
+    ext: -wordmark
   - name: chrome
+    ext: -wordmark
   - name: git
   - name: gradle
 
