@@ -4,6 +4,7 @@ title:  "Serverless React Web App with AWS Amplify — Part One"
 date:   2018-04-19 14:34:05 +07
 author: jameshamann
 authorUrl: https://jameshamann.com/
+categories: React
 image: https://cdn-images-1.medium.com/max/1024/1*_0jTP7l27uwj2CPLpqnVdw.jpeg
 excerpt: Describe fundamentals about Serverless React Web App with AWS Amplify - its architecture and usecase benefits. Along with that, the article will show you a basic app implement and deployment for example.
 ---

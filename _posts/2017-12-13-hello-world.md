@@ -5,6 +5,7 @@ date:   2017-12-04 21:15:05 +0000
 image: /assets/images/startup.jpg
 author: Jekyll
 authorUrl: https://github.com/jekyll
+categories: Jekyll
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
